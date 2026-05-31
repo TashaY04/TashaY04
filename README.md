@@ -101,4 +101,6 @@ Personal finance management platform featuring expense tracking, analytics dashb
 
 Thanks for stopping by! 🚀
 
- ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=python,java,react,flask,mysql,docker,git,linux" />
+
+![Powered by Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown)
