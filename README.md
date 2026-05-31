@@ -1,6 +1,8 @@
-# Hi, I'm Musti Tanisha Yadav 👋
+<img width="1977" height="1094" alt="Black White Minimal Simple Bold  Modern Professional Photography Letter K Museum Logo" src="https://github.com/user-attachments/assets/a6c7ab75-de41-4fe3-b02b-f3b40e89f338" />
+ 
 
-### Computer Science Engineer | Full-Stack Developer | Machine Learning Enthusiast
+ # Hi, this is Tanisha 👋
+### Computer Science Engineer | Full-Stack and Machine Learning Enthusiast
 
 I'm a Computer Science student passionate about building products that combine software engineering, machine learning, and real-world impact.
 
