@@ -103,4 +103,4 @@ Thanks for stopping by! 🚀
 
 <img src="https://skillicons.dev/icons?i=python,java,react,flask,mysql,docker,git,linux" />
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+[](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
