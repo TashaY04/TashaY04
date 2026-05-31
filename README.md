@@ -103,4 +103,4 @@ Thanks for stopping by! 🚀
 
 <img src="https://skillicons.dev/icons?i=python,java,react,flask,mysql,docker,git,linux" />
 
-![Powered by Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown)
+![Powered by Tanisha](https://img.shields.io/badge/Powered%20By-Coffee-brown)
